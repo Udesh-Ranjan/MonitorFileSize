@@ -1,0 +1,13 @@
+C:\Users\Dev Parzival\source\repos\MonitorFileSize\bin\Debug\netcoreapp3.1\MonitorFileSize.exe
+C:\Users\Dev Parzival\source\repos\MonitorFileSize\bin\Debug\netcoreapp3.1\MonitorFileSize.deps.json
+C:\Users\Dev Parzival\source\repos\MonitorFileSize\bin\Debug\netcoreapp3.1\MonitorFileSize.runtimeconfig.json
+C:\Users\Dev Parzival\source\repos\MonitorFileSize\bin\Debug\netcoreapp3.1\MonitorFileSize.runtimeconfig.dev.json
+C:\Users\Dev Parzival\source\repos\MonitorFileSize\bin\Debug\netcoreapp3.1\MonitorFileSize.dll
+C:\Users\Dev Parzival\source\repos\MonitorFileSize\bin\Debug\netcoreapp3.1\MonitorFileSize.pdb
+C:\Users\Dev Parzival\source\repos\MonitorFileSize\obj\Debug\netcoreapp3.1\MonitorFileSize.csprojAssemblyReference.cache
+C:\Users\Dev Parzival\source\repos\MonitorFileSize\obj\Debug\netcoreapp3.1\MonitorFileSize.AssemblyInfoInputs.cache
+C:\Users\Dev Parzival\source\repos\MonitorFileSize\obj\Debug\netcoreapp3.1\MonitorFileSize.AssemblyInfo.cs
+C:\Users\Dev Parzival\source\repos\MonitorFileSize\obj\Debug\netcoreapp3.1\MonitorFileSize.csproj.CoreCompileInputs.cache
+C:\Users\Dev Parzival\source\repos\MonitorFileSize\obj\Debug\netcoreapp3.1\MonitorFileSize.dll
+C:\Users\Dev Parzival\source\repos\MonitorFileSize\obj\Debug\netcoreapp3.1\MonitorFileSize.pdb
+C:\Users\Dev Parzival\source\repos\MonitorFileSize\obj\Debug\netcoreapp3.1\MonitorFileSize.genruntimeconfig.cache
